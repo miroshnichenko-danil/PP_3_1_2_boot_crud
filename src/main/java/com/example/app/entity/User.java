@@ -1,7 +1,7 @@
-package web.model;
+package com.example.app.entity;
 
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name = "users")
